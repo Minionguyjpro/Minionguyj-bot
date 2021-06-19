@@ -109,4 +109,4 @@ async def suggest(ctx, *suggestion):
 
 
 
-bot.run(TOKEN)
+bot.run('ODU1Nzg0Nzk2NDkwODI1NzI4.YM3hsw.lJn1lrxqlQd0rDTgDSxa84J7Koo')
