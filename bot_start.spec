@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['bot_start.py'],
+a = Analysis(['main.py'],
              pathex=['venv\\Lib\\site-packages', 'C:\\Users\\Digital Net\\Documents\\Programming\\Python\\MinionguyjBot'],
              binaries=[],
              datas=[],
