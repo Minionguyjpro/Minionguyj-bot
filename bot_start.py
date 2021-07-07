@@ -4,7 +4,7 @@ from sql_work import MongoLite
 
 mn = MongoLite("server.db")
 
-TOKEN = 'ODUwMDg3ODg0ODM1OTEzNzk5.YLkoCQ.81BO0zyLkQ5cqf01xDafARyF7p8'
+TOKEN = 'type your bot token here'
 bot = commands.Bot(command_prefix='=', activity=discord.Activity(type=discord.ActivityType.watching, name="out for ="))
 
 @bot.event
@@ -109,4 +109,4 @@ async def suggest(ctx, *suggestion):
 
 
 
-bot.run('ODU1Nzg0Nzk2NDkwODI1NzI4.YM3hsw.UcqzzYJCp0wCO9YzSLmKqAbkc5Q')
+bot.run('Type your bot token here')
